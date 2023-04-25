@@ -1,7 +1,5 @@
 # EX-05-Feature-Generation
 
-NAME: E. VETRIVEL
-REG NO: 212220040176
 
 ## AIM
 To read the given data and perform Feature Generation process and save the data to a file. 
